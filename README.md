@@ -72,4 +72,4 @@ This project analyzes the effectiveness of direct marketing campaigns by a Portu
 - **Deployment**: Develop a system to integrate the model predictions into the marketing strategy.
 
 ## Link to Notebook
-[Bank Marketing Campaign Analysis Notebook](prompt_III.ipynb)
+[Bank Marketing Campaign Analysis Notebook](Bank_Marketing_Campaign_Analysis.ipynb)
